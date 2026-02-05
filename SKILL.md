@@ -1,3 +1,10 @@
+---
+name: echodecks
+description: AI-powered flashcards and audio podcasts for active recall.
+homepage: https://echodecks.com
+metadata: {"clawdbot":{"emoji":"⚡️"}}
+---
+
 # EchoDecks Skill
 
 Integrates with the EchoDecks External API for flashcard management, AI generation, and audio study sessions.
